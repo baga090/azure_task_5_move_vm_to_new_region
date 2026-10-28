@@ -1,3 +1,4 @@
 {
-  "resourcesTemplate": ""
+  "sourceRegion": "switzerlandnorth",
+  "resourcesTemplate": "https://workstorage8245.blob.core.windows.net/task-artifacts/task5/exported-template.json?sv=2025-07-05&se=2026-11-27T22%3A49%3A29Z&sr=b&sp=r&sig=evquGjEB0ceuQ%2FBYS58brNrFpOIrvI5oR3BqjVhN4dU%3D"
 }
